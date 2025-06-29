@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a Junior computer science student minoring in mathematics at Texas Tech University<br>Looking for experience in Software Engineering || Artificial Intelligence || Machine Learning
+I am currently a Junior computer science student minoring in mathematics at Texas Tech University
 
 
 ## 🌐 Socials:
