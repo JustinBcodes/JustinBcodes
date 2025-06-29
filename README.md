@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am currently a Junior computer science student minoring in mathematics at Texas Tech University
+I am currently studying Computer Science and Mathematics at Texas Tech University!
+
+
 
 
 ## 🌐 Socials:
