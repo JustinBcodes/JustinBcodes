@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=40&pause=800000&color=07F700&width=435&lines=Justin+Bean)](https://git.io/typing-svg)
-
 # 💫 About Me:
 I am currently studying Computer Science and Mathematics at Texas Tech University!
 
