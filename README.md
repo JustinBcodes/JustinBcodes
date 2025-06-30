@@ -1,6 +1,6 @@
 # 💫 About Me:
 I am currently studying Computer Science and Mathematics at Texas Tech University!
-![](https://komarev.com/ghpvc/?username=JustinBcodes&label=PROFILE+VIEWS&color=blue)
+[![trophy](https://github-profile-trophy.vercel.app/?username=JustinBcodes&theme=onedark&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 🌐 Socials:
