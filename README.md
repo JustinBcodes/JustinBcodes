@@ -1,8 +1,7 @@
 # 💫 About Me:
 I am currently studying Computer Science and Mathematics at Texas Tech University!
+![](https://komarev.com/ghpvc/?username=JustinBcodes&label=PROFILE+VIEWS&color=blue)
 
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=JustinBcodes&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/justinbean37) 
