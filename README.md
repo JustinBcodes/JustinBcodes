@@ -1,5 +1,5 @@
-# 💫 About Me:
-I am currently studying Computer Science and Mathematics at Texas Tech University!
+![ChatGPT Image Jul 5, 2025, 12_38_12 AM](https://github.com/user-attachments/assets/b9dc2dd1-1ada-4636-8675-0290cd7f34ca)
+
 
 
 
