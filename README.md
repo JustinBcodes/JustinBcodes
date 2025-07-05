@@ -12,13 +12,14 @@
 # 📊 GitHub Stats:
 <!-- GitHub Streak Stats -->
 <img 
-  src="https://nirzak-streak-stats.vercel.app/?user=JustinBcodes&theme=transparent&hide_border=true&background=00000000&ring=00f7ff&currStreakLabel=00f7ff&fire=00f7ff&sideLabels=00f7ff&dates=5ce0f5" 
+  src="https://nirzak-streak-stats.vercel.app/?user=JustinBcodes&theme=transparent&hide_border=false&background=00000000&ring=00f7ff&currStreakLabel=00f7ff&fire=00f7ff&sideLabels=00f7ff&dates=5ce0f5" 
   alt="GitHub Streak Stats"
 />
 
 <!-- GitHub Top Languages -->
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinBcodes&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&title_color=00f7ff&text_color=5ce0f5&icon_color=00f7ff" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinBcodes&layout=compact&hide_border=false&theme=transparent&bg_color=00000000&title_color=00f7ff&text_color=5ce0f5&icon_color=00f7ff" 
   alt="Top Languages"
 />
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
