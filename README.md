@@ -102,13 +102,7 @@ Building AI Systems, High Performance Applications, and Scalable Software
 
 ---
 
-## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JustinBcodes&theme=tokyo-night&hide_border=true&radius=16" />
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
