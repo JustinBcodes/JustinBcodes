@@ -25,7 +25,7 @@ I build software that connects AI with practical, everyday problems—from perso
 - 🛰️ **Axiom Space · Software Engineering Intern, Summer 2026** — shipped flight-readiness and document management tools; reduced manual Box-to-Confluence field entry by **95%**.
 - 💪 **Founder of BeanBuilt AI** — launched an AI fitness platform with **150+ registered users**.
 - 🎓 **Texas Tech University** — B.S. in Computer Science, Mathematics minor · expected **December 2026**.
-- ⚡ Into backend engineering, applied machine learning, algorithms, and optimizing gaming hardware.
+- ⚡ Into backend and full-stack engineering, applied machine learning, algorithms, and optimizing gaming hardware.
 
 ## 🛠️ Selected projects
 
