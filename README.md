@@ -32,9 +32,9 @@ I build software that connects AI with practical, everyday problems—from perso
 | Project | What I built | Core stack |
 | :--- | :--- | :--- |
 | **[BeanBuilt AI](https://github.com/JustinBcodes/BeanBuiltAI)** | Personalized workout and nutrition plans with validated AI responses and authenticated plan storage. **150+ registered users.** | Next.js · TypeScript · PostgreSQL · OpenAI API |
-| **[ReliefFlow](https://github.com/JustinBcodes/reliefflow)** | Emergency resource booking for shelter beds, supplies, and clinics—with expiring holds and safeguards for concurrent reservations. | Next.js · PostgreSQL · Redis |
-| **[ForgeTrack](https://github.com/JustinBcodes/ForgeTrack)** | Engineering issue tracker with **11 REST endpoints**, linked GitHub pull requests, and transactional issue numbering. | Java · Spring Boot · React · PostgreSQL |
-| **[E-Commerce Payments & Analytics](https://github.com/JustinBcodes/ecom-dashboard)** | Stripe payments, inventory updates, and live revenue dashboards with idempotent order creation. | Node.js · TypeScript · PostgreSQL · Stripe · Socket.IO |
+| **[Atlas AI Developer Workspace](https://github.com/JustinBcodes/atlas-ai-developer-workspace)** | Searchable codebase workspace with cited AI answers, background indexing, and pull-request and branch comparisons. | Next.js · TypeScript · Python · PostgreSQL · Redis |
+| **[ForgeTrack](https://github.com/JustinBcodes/ForgeTrack)** | Engineering issue tracker with **11 REST endpoints**, transactional issue numbering, verified GitHub PR links, and automated API/UI checks. | Java · Spring Boot · TypeScript · PostgreSQL |
+| **[API Gateway & Distributed Rate Limiter](https://github.com/JustinBcodes/supplement-api-gateway)** | Go gateway routing across four marketplace services with Redis rate limits, circuit breakers, and latency dashboards. | Go · Redis · PostgreSQL · Docker |
 
 <p align="center">
   <a href="https://github.com/JustinBcodes?tab=repositories"><strong>Explore all repositories →</strong></a>
